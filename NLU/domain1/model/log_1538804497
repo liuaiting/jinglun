@@ -1,0 +1,246 @@
+# log_file=model/log_1538804497
+# Start step 0, Sat Oct  6 13:41:39 2018
+# Finished epoch 1, step 14
+# Finished epoch 2, step 28
+# Finished epoch 3, step 42
+# Finished epoch 4, step 56
+# Finished epoch 5, step 70
+# Finished epoch 6, step 84
+# Finished epoch 7, step 98
+  step 100 lr 0.001 step_time 0.20s loss 0.2346 slot_loss 22.4434 intent_loss 27.5145 gN 0.04, Sat Oct  6 13:41:59 2018
+# Finished epoch 8, step 112
+# Finished epoch 9, step 126
+# Finished epoch 10, step 140
+# Finished epoch 11, step 154
+# Finished epoch 12, step 168
+# Finished epoch 13, step 182
+# Finished epoch 14, step 196
+  step 200 lr 0.001 step_time 0.21s loss 0.0669 slot_loss 6.6456 intent_loss 6.8441 gN 0.03, Sat Oct  6 13:42:23 2018
+# Finished epoch 15, step 210
+# Finished epoch 16, step 224
+# Finished epoch 17, step 238
+# Finished epoch 18, step 252
+# Finished epoch 19, step 266
+# Finished epoch 20, step 280
+# Finished epoch 21, step 294
+  step 300 lr 0.001 step_time 0.21s loss 0.0471 slot_loss 4.9064 intent_loss 3.9301 gN 0.02, Sat Oct  6 13:42:46 2018
+# Finished epoch 22, step 308
+# Finished epoch 23, step 322
+# Finished epoch 24, step 336
+# Finished epoch 25, step 350
+# Finished epoch 26, step 364
+# Finished epoch 27, step 378
+# Finished epoch 28, step 392
+  step 400 lr 0.001 step_time 0.20s loss 0.0300 slot_loss 3.2547 intent_loss 1.9925 gN 0.03, Sat Oct  6 13:43:09 2018
+# Finished epoch 29, step 406
+# Finished epoch 30, step 420
+# Finished epoch 31, step 434
+# Finished epoch 32, step 448
+# Finished epoch 33, step 462
+# Finished epoch 34, step 476
+# Finished epoch 35, step 490
+  step 500 lr 0.001 step_time 0.20s loss 0.0202 slot_loss 2.1879 intent_loss 1.3464 gN 0.02, Sat Oct  6 13:43:32 2018
+# Finished epoch 36, step 504
+# Finished epoch 37, step 518
+# Finished epoch 38, step 532
+# Finished epoch 39, step 546
+# Finished epoch 40, step 560
+# Finished epoch 41, step 574
+# Finished epoch 42, step 588
+  step 600 lr 0.001 step_time 0.21s loss 0.0151 slot_loss 1.6177 intent_loss 1.0805 gN 0.03, Sat Oct  6 13:43:56 2018
+# Finished epoch 43, step 602
+# Finished epoch 44, step 616
+# Finished epoch 45, step 630
+# Finished epoch 46, step 644
+# Finished epoch 47, step 658
+# Finished epoch 48, step 672
+# Finished epoch 49, step 686
+  step 700 lr 0.001 step_time 0.21s loss 0.0118 slot_loss 1.2465 intent_loss 0.9382 gN 0.03, Sat Oct  6 13:44:20 2018
+# Finished epoch 50, step 700
+# Finished epoch 51, step 714
+# Finished epoch 52, step 728
+# Finished epoch 53, step 742
+# Finished epoch 54, step 756
+# Finished epoch 55, step 770
+# Finished epoch 56, step 784
+# Finished epoch 57, step 798
+  step 800 lr 0.001 step_time 0.20s loss 0.0093 slot_loss 0.9430 intent_loss 0.8556 gN 0.02, Sat Oct  6 13:44:42 2018
+# Finished epoch 58, step 812
+# Finished epoch 59, step 826
+# Finished epoch 60, step 840
+# Finished epoch 61, step 854
+# Finished epoch 62, step 868
+# Finished epoch 63, step 882
+# Finished epoch 64, step 896
+  step 900 lr 0.001 step_time 0.20s loss 0.0077 slot_loss 0.7604 intent_loss 0.8022 gN 0.02, Sat Oct  6 13:45:06 2018
+# Finished epoch 65, step 910
+# Finished epoch 66, step 924
+# Finished epoch 67, step 938
+# Finished epoch 68, step 952
+# Finished epoch 69, step 966
+# Finished epoch 70, step 980
+# Finished epoch 71, step 994
+  step 1000 lr 0.001 step_time 0.21s loss 0.0065 slot_loss 0.6084 intent_loss 0.8135 gN 0.02, Sat Oct  6 13:45:29 2018
+# Finished epoch 72, step 1008
+# Finished epoch 73, step 1022
+# Finished epoch 74, step 1036
+# Finished epoch 75, step 1050
+# Finished epoch 76, step 1064
+# Finished epoch 77, step 1078
+# Finished epoch 78, step 1092
+  step 1100 lr 0.001 step_time 0.21s loss 0.0055 slot_loss 0.4970 intent_loss 0.7507 gN 0.02, Sat Oct  6 13:45:52 2018
+# Finished epoch 79, step 1106
+# Finished epoch 80, step 1120
+# Finished epoch 81, step 1134
+# Finished epoch 82, step 1148
+# Finished epoch 83, step 1162
+# Finished epoch 84, step 1176
+# Finished epoch 85, step 1190
+  step 1200 lr 0.001 step_time 0.20s loss 0.0047 slot_loss 0.4140 intent_loss 0.6971 gN 0.01, Sat Oct  6 13:46:15 2018
+# Finished epoch 86, step 1204
+# Finished epoch 87, step 1218
+# Finished epoch 88, step 1232
+# Finished epoch 89, step 1246
+# Finished epoch 90, step 1260
+# Finished epoch 91, step 1274
+# Finished epoch 92, step 1288
+  step 1300 lr 0.001 step_time 0.20s loss 0.0041 slot_loss 0.3507 intent_loss 0.6711 gN 0.01, Sat Oct  6 13:46:38 2018
+# Finished epoch 93, step 1302
+# Finished epoch 94, step 1316
+# Finished epoch 95, step 1330
+# Finished epoch 96, step 1344
+# Finished epoch 97, step 1358
+# Finished epoch 98, step 1372
+# Finished epoch 99, step 1386
+  step 1400 lr 0.001 step_time 0.22s loss 0.0037 slot_loss 0.3074 intent_loss 0.6427 gN 0.01, Sat Oct  6 13:47:03 2018
+# Finished epoch 100, step 1400
+# Finished epoch 101, step 1414
+# Finished epoch 102, step 1428
+# Finished epoch 103, step 1442
+# Finished epoch 104, step 1456
+# Finished epoch 105, step 1470
+# Finished epoch 106, step 1484
+# Finished epoch 107, step 1498
+  step 1500 lr 0.001 step_time 0.20s loss 0.0035 slot_loss 0.2807 intent_loss 0.6182 gN 0.01, Sat Oct  6 13:47:27 2018
+# Finished epoch 108, step 1512
+# Finished epoch 109, step 1526
+# Finished epoch 110, step 1540
+# Finished epoch 111, step 1554
+# Finished epoch 112, step 1568
+# Finished epoch 113, step 1582
+# Finished epoch 114, step 1596
+  step 1600 lr 0.001 step_time 0.20s loss 0.0034 slot_loss 0.2710 intent_loss 0.5974 gN 0.02, Sat Oct  6 13:47:49 2018
+# Finished epoch 115, step 1610
+# Finished epoch 116, step 1624
+# Finished epoch 117, step 1638
+# Finished epoch 118, step 1652
+# Finished epoch 119, step 1666
+# Finished epoch 120, step 1680
+# Finished epoch 121, step 1694
+  step 1700 lr 0.001 step_time 0.21s loss 0.0042 slot_loss 0.3300 intent_loss 0.7918 gN 0.01, Sat Oct  6 13:48:13 2018
+# Finished epoch 122, step 1708
+# Finished epoch 123, step 1722
+# Finished epoch 124, step 1736
+# Finished epoch 125, step 1750
+# Finished epoch 126, step 1764
+# Finished epoch 127, step 1778
+# Finished epoch 128, step 1792
+  step 1800 lr 0.001 step_time 0.20s loss 0.0031 slot_loss 0.2379 intent_loss 0.5738 gN 0.01, Sat Oct  6 13:48:36 2018
+# Finished epoch 129, step 1806
+# Finished epoch 130, step 1820
+# Finished epoch 131, step 1834
+# Finished epoch 132, step 1848
+# Finished epoch 133, step 1862
+# Finished epoch 134, step 1876
+# Finished epoch 135, step 1890
+  step 1900 lr 0.001 step_time 0.21s loss 0.0029 slot_loss 0.2204 intent_loss 0.5469 gN 0.01, Sat Oct  6 13:48:59 2018
+# Finished epoch 136, step 1904
+# Finished epoch 137, step 1918
+# Finished epoch 138, step 1932
+# Finished epoch 139, step 1946
+# Finished epoch 140, step 1960
+# Finished epoch 141, step 1974
+# Finished epoch 142, step 1988
+  step 2000 lr 0.001 step_time 0.21s loss 0.0028 slot_loss 0.2118 intent_loss 0.5327 gN 0.01, Sat Oct  6 13:49:23 2018
+# Finished epoch 143, step 2002
+# Finished epoch 144, step 2016
+# Finished epoch 145, step 2030
+# Finished epoch 146, step 2044
+# Finished epoch 147, step 2058
+# Finished epoch 148, step 2072
+# Finished epoch 149, step 2086
+  step 2100 lr 0.001 step_time 0.20s loss 0.0027 slot_loss 0.2037 intent_loss 0.5181 gN 0.01, Sat Oct  6 13:49:45 2018
+# Finished epoch 150, step 2100
+# Finished epoch 151, step 2114
+# Finished epoch 152, step 2128
+# Finished epoch 153, step 2142
+# Finished epoch 154, step 2156
+# Finished epoch 155, step 2170
+# Finished epoch 156, step 2184
+# Finished epoch 157, step 2198
+  step 2200 lr 0.001 step_time 0.20s loss 0.0026 slot_loss 0.1967 intent_loss 0.5060 gN 0.00, Sat Oct  6 13:50:08 2018
+# Finished epoch 158, step 2212
+# Finished epoch 159, step 2226
+# Finished epoch 160, step 2240
+# Finished epoch 161, step 2254
+# Finished epoch 162, step 2268
+# Finished epoch 163, step 2282
+# Finished epoch 164, step 2296
+  step 2300 lr 0.001 step_time 0.22s loss 0.0025 slot_loss 0.1922 intent_loss 0.4971 gN 0.01, Sat Oct  6 13:50:32 2018
+# Finished epoch 165, step 2310
+# Finished epoch 166, step 2324
+# Finished epoch 167, step 2338
+# Finished epoch 168, step 2352
+# Finished epoch 169, step 2366
+# Finished epoch 170, step 2380
+# Finished epoch 171, step 2394
+  step 2400 lr 0.001 step_time 0.21s loss 0.0026 slot_loss 0.1914 intent_loss 0.5386 gN 0.01, Sat Oct  6 13:50:56 2018
+# Finished epoch 172, step 2408
+# Finished epoch 173, step 2422
+# Finished epoch 174, step 2436
+# Finished epoch 175, step 2450
+# Finished epoch 176, step 2464
+# Finished epoch 177, step 2478
+# Finished epoch 178, step 2492
+  step 2500 lr 0.001 step_time 0.20s loss 0.0024 slot_loss 0.1850 intent_loss 0.4848 gN 0.00, Sat Oct  6 13:51:18 2018
+# Finished epoch 179, step 2506
+# Finished epoch 180, step 2520
+# Finished epoch 181, step 2534
+# Finished epoch 182, step 2548
+# Finished epoch 183, step 2562
+# Finished epoch 184, step 2576
+# Finished epoch 185, step 2590
+  step 2600 lr 0.001 step_time 0.21s loss 0.0024 slot_loss 0.1816 intent_loss 0.4748 gN 0.01, Sat Oct  6 13:51:42 2018
+# Finished epoch 186, step 2604
+# Finished epoch 187, step 2618
+# Finished epoch 188, step 2632
+# Finished epoch 189, step 2646
+# Finished epoch 190, step 2660
+# Finished epoch 191, step 2674
+# Finished epoch 192, step 2688
+  step 2700 lr 0.001 step_time 0.21s loss 0.0024 slot_loss 0.1796 intent_loss 0.4702 gN 0.01, Sat Oct  6 13:52:06 2018
+# Finished epoch 193, step 2702
+# Finished epoch 194, step 2716
+# Finished epoch 195, step 2730
+# Finished epoch 196, step 2744
+# Finished epoch 197, step 2758
+# Finished epoch 198, step 2772
+# Finished epoch 199, step 2786
+  step 2800 lr 0.001 step_time 0.20s loss 0.0023 slot_loss 0.1764 intent_loss 0.4646 gN 0.01, Sat Oct  6 13:52:28 2018
+# Finished epoch 200, step 2800
+# Finished epoch 201, step 2814
+# Finished epoch 202, step 2828
+# Finished epoch 203, step 2842
+# Finished epoch 204, step 2856
+# Finished epoch 205, step 2870
+# Finished epoch 206, step 2884
+# Finished epoch 207, step 2898
+  step 2900 lr 0.001 step_time 0.20s loss 0.0023 slot_loss 0.1732 intent_loss 0.4593 gN 0.00, Sat Oct  6 13:52:51 2018
+# Finished epoch 208, step 2912
+# Finished epoch 209, step 2926
+# Finished epoch 210, step 2940
+# Finished epoch 211, step 2954
+# Finished epoch 212, step 2968
+# Finished epoch 213, step 2982
+# Finished epoch 214, step 2996
+  step 3000 lr 0.001 step_time 0.21s loss 0.0023 slot_loss 0.1716 intent_loss 0.4569 gN 0.01, Sat Oct  6 13:53:15 2018

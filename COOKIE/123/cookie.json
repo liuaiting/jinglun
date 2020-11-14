@@ -1,0 +1,117 @@
+{
+    "user_id": "123",
+    "request_data": {
+        "user_info": {
+            "user_id": "123",
+            "info": {}
+        },
+        "user_input": "机器条码是ZPA1311260101919"
+    },
+    "session_info": {
+        "session_id": "1",
+        "dr_result": {
+            "domain": "查询维修进度"
+        },
+        "turn_info": {
+            "turn_id": "1",
+            "turn_input": "机器条码是ZPA1311260101919",
+            "nlu_result": {
+                "intent": "INFORM",
+                "slots": [
+                    {
+                        "slot_val": "ZPA1311260101919",
+                        "slot_name": "CODE"
+                    }
+                ]
+            },
+            "dm_result": {
+                "state": [
+                    0,
+                    0,
+                    2,
+                    0
+                ],
+                "action": "ANSWER",
+                "slots": {
+                    "slot_name": "",
+                    "slot_val": ""
+                },
+                "answers": [
+                    {
+                        "NUM": 1703186,
+                        "name": "王望",
+                        "TEL": "13976726543",
+                        "CODE": "ZPA1311260101919",
+                        "FMS": "1036205005323",
+                        "ans": "已处理",
+                        "model": "iDR210(U)",
+                        "reason": "不读新身份证、接口插坏",
+                        "parts": "主板及外壳组件",
+                        "checkRemark": "客户私拆",
+                        "repairCost": 380.0
+                    }
+                ]
+            },
+            "nlg_result": {
+                "response": "详细信息如下：维修单号1703186，手机号码13976726543，整机条码ZPA1311260101919，快递单号1036205005323，维修进展：已处理。",
+                "message": "success"
+            },
+            "response_data": {}
+        },
+        "history_info": {
+            "dm_history": {
+                "rejected_slots": [],
+                "slots_info": {
+                    "TEL": "",
+                    "NUM": "",
+                    "CODE": "ZPA1311260101919",
+                    "FMS": ""
+                },
+                "query": {
+                    "TEL": "",
+                    "NUM": "",
+                    "CODE": "ZPA1311260101919",
+                    "FMS": ""
+                },
+                "history_res": [
+                    {
+                        "state": [
+                            0,
+                            0,
+                            2,
+                            0
+                        ],
+                        "action": "ANSWER",
+                        "slots": {
+                            "slot_name": "",
+                            "slot_val": ""
+                        },
+                        "answers": [
+                            {
+                                "NUM": 1703186,
+                                "name": "王望",
+                                "TEL": "13976726543",
+                                "CODE": "ZPA1311260101919",
+                                "FMS": "1036205005323",
+                                "ans": "已处理",
+                                "model": "iDR210(U)",
+                                "reason": "不读新身份证、接口插坏",
+                                "parts": "主板及外壳组件",
+                                "checkRemark": "客户私拆",
+                                "repairCost": 380.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            "nlu_history": {
+                "CODE": "ZPA1311260101919"
+            },
+            "nlg_history": {
+                "history_action": [
+                    "ANSWER"
+                ]
+            }
+        }
+    }
+}

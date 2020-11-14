@@ -1,0 +1,48 @@
+{
+  "user_id": "1",
+
+  "request_data":
+  {
+    "user_info":{"user_id":"1", "info":{"TEL":"1323323232"}},
+    "user_input": "user input string"
+  },
+
+  "session_info":
+  {
+    "session_id": "0",
+    "dr_result": {"domain": "查询维修进度"},
+    "turn_info":
+    {
+      "turn_id": "1",
+      "turn_input": "user input string",
+      "nlu_result":
+      {
+        "intent": "",
+        "slots": [{"slot_name": "", "slot_val": ""}]
+      },
+      "dm_result":
+      {
+        "state":[0,0,0,0],
+        "action":"ASK_NUM",
+        "slots":{"slot_name":"","slot_val":""},
+        "answers":[]
+      },
+      "nlg_result":
+      {
+        "response": "",
+        "message": ""
+      },
+      "response_data":
+      {
+        "sys_output": "system response string",
+        "user_info": {"user_id": "1", "info": {"TEL": ""}}
+      }
+    },
+    "history_info":
+    {
+      "dm_history":{"rejected_slots":[],"slots_info":{"TEL":"","NUM":"","CODE":"","FMS":""}, "query":{"TEL":"","NUM":"","CODE":"","FMS":""},"history_res":[]},
+      "nlu_history": {"TEL":"","NUM":"","CODE":"","FMS":""},
+      "nlg_history": {"history_action": ["ASK_NUM"]}
+    }
+  }
+}

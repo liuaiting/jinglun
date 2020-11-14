@@ -1,0 +1,10 @@
+{
+  "dm_result":
+  {
+    "state": [0,0,0,0],
+    "action": "CONFIRM_NUM",
+    "slots": {"slot_name": "TEL","slot_val": "13211112222"},
+    "answers": []
+  }
+}
+

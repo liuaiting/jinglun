@@ -1,0 +1,31 @@
+{
+  "user_id": "",
+
+  "request_data":
+  {
+    "user_info":{"user_id": "", "info":{}},
+    "user_input": ""
+  },
+
+  "session_info":
+  {
+    "session_id": "1",
+    "dr_result": {},
+    "turn_info":
+    {
+      "turn_id": "1",
+      "turn_input": "",
+      "nlu_result": {},
+      "dm_result": {},
+      "nlg_result": {},
+      "response_data": {}
+    },
+
+    "history_info":
+    {
+      "dm_history": {"rejected_slots":[],"slots_info":{},"query":{},"history_res":[]},
+      "nlu_history": {},
+      "nlg_history": {}
+    }
+  }
+}

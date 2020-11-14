@@ -1,0 +1,7 @@
+{
+  "nlu_result":
+  {
+    "intent": "INFORM",
+    "slots": [{"slot_name": "TEL", "slot_val": "13211112222"}]
+  }
+}

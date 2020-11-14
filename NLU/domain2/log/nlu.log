@@ -1,0 +1,5 @@
+18-10-12 21:18:04 INFO new an instance of NLU class success.
+18-10-12 21:18:04 INFO nlu_result:{'intent': 'INFORM', 'slots': [{'slot_val': '434343', 'slot_name': 'FMS'}]}
+18-10-12 21:18:04 INFO update nlu result success.
+18-10-12 21:18:04 INFO update nlu history FMS: 434343.
+18-10-12 21:18:04 INFO {'user_id': '1', 'request_data': {'user_info': {'user_id': '1', 'info': {'TEL': '13211112222'}}, 'user_input': '快递单号是434343'}, 'session_info': {'session_id': '1', 'dr_result': {}, 'turn_info': {'turn_id': '1', 'turn_input': '快递单号是434343', 'nlu_result': {'intent': 'INFORM', 'slots': [{'slot_val': '434343', 'slot_name': 'FMS'}]}, 'dm_result': {}, 'nlg_result': {}, 'response_data': {}}, 'history_info': {'nlu_history': {'FMS': '434343'}, 'dm_history': {}, 'nlg_history': {}}}}

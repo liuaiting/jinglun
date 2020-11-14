@@ -1,0 +1,56 @@
+{
+  "user_id": "1",
+
+  "request_data":
+  {
+    "user_info":{"user_id":"1", "info":{"TEL":"1323323232"}},
+    "user_input": "user input string"
+  },
+
+  "session_info":
+  {
+    "session_id": "0",
+    "dr_result": {"domain": "查询维修进度"},
+    "turn_info":
+    {
+      "turn_id": "1",
+      "turn_input": "user input string",
+      "nlu_result":
+      {
+        "intent": "",
+        "slots": [{"slot_name": "", "slot_val": ""}]
+      },
+      "dm_result": 
+      {
+        "state": [0, 2, 0, 0], 
+        "action": "SELECT", 
+        "slots": {"slot_name": "TEL", "slot_val": "13976726543"},
+         "answers": [
+               {"NUM": 1703186, "name": "王望", "TEL": "13976726543", "CODE": "ZPA1311260101919", "FMS": "1036205005323", "ans": "已处理", "model": "iDR210(U)", 
+              "reason": "不读新身份证、接口插坏", "parts": "主板及外壳组件", "checkRemark": "客户私拆", "repairCost": 380.0}, 
+              {"NUM": 1806087, "name": "王望", "TEL": "13976726543", "CODE": "05.01-20111205-0001760212-2598966456", "FMS": "1036205005323", "ans": "已处理", "model": "安全模块", 
+              "reason": "不读新身份证、安全模块不稳定", "parts": "安全模块", "checkRemark": "", 
+            "repairCost": 1250.0}
+             ]},
+
+      "nlg_result":
+      {
+        "response": "",
+        "message": ""
+      },
+      "response_data":
+      {
+        "sys_output": "system response string",
+        "user_info": {"user_id": "1", "info": {"TEL": ""}}
+      }
+    },
+
+    "history_info":
+    {
+      "dm_history":{"rejected_slots":[],"slots_info":{"TEL":"","NUM":"","CODE":"","FMS":""},"query":{"TEL":"","NUM":"","CODE":"","FMS":""},"history_res":[]},
+      "nlu_history": {"TEL":"","NUM":"","CODE":"","FMS":""},
+      "nlg_history": {"history_action": ["ASK_NUM"]}
+    }
+  }
+}
+
